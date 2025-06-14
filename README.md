@@ -20,36 +20,6 @@ Chatoon is a modern, real-time chat application built for Android using *Jetpack
 
 ---
 
-## 🧩 Project Structure
-
-
-Chatoon/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/myapplication/
-│   │   │   │   ├── view/...
-│   │   │   │   ├── nav/...
-│   │   │   │   ├── ui/theme/...
-│   │   │   │   ├── Constants.kt
-│   │   │   │   ├── MainActivity.kt
-│   │   │   │   ├── NavComposeApp.kt
-│   │   │   ├── res/
-│   │   │   │   ├── drawable/
-│   │   │   │   ├── layout/
-│   │   │   │   └── values/
-│   ├── build.gradle
-│   ├── google-services.json
-├── functions/ (Firebase Cloud Functions)
-│   ├── index.js
-│   └── ...
-├── build.gradle
-├── settings.gradle
-└── README.md
-
-
----
-
 ## ⚙ Installation & Setup
 
 ### Prerequisites
