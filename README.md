@@ -8,18 +8,6 @@ Chatoon is a modern, real-time chat application built for Android using *Jetpack
 
 ---
 
-## 🖼 Output Screenshots
-
-### Authentication
-![Login/Register](https://your-screenshot-link/login.png)
-
-### Chat Room List
-![Chat Rooms](https://your-screenshot-link/chatrooms.png)
-
-### Messaging
-![Chat](https://your-screenshot-link/chat.png)
-
----
 
 ## 🛠 Technologies Used
 
@@ -73,7 +61,7 @@ Chatoon/
 
 1. *Clone the repository:*
     bash
-    git clone https://github.com/yourusername/Chatoon.git
+    git clone https://github.com/prajwalnikam/android-chatconnect-real-time-chat-app.git
     cd Chatoon/app
     
 
@@ -116,17 +104,6 @@ Chatoon/
 
 ---
 
-## 📂 Firebase Cloud Functions
-
-- Located in [functions/index.js](functions/index.js)
-- Sends push notifications to users subscribed to chat room topics.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 🤝 Contributing
@@ -137,4 +114,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-For questions or support, please contact [your.email@example.com](mailto:your.email@example.com).
+For questions or support, please contact [prajwalnikam4@gmail.com](mailto:prajwalnikam4@gmail.com).
